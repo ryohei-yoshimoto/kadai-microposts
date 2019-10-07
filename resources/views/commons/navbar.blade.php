@@ -1,4 +1,4 @@
-resources/views/commons/navbar.blade.php
+
 
 <header class="mb-4">
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark"> 
